@@ -4,7 +4,7 @@ Thank you for your message and for the opportunity to address this requirement.
 
 I have now deposited the analysis code and reproducibility materials in a public GitHub repository for JASC26-162:
 
-https://github.com/aeterna5326/jas-viking-northumbria-repro-2026
+https://github.com/anthonydelrio-research/jas-viking-northumbria-repro-2026
 
 The repository includes:
 - the main analysis pipeline and supporting scripts,

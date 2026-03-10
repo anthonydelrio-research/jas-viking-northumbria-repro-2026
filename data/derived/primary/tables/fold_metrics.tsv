@@ -1,0 +1,6 @@
+fold	validation_sites	training_sites	excluded_sites	hit_rate_15pct	auc	baseline_gain_csr	baseline_gain_opportunity
+1	4	621	23	0.0	0.41765	0.0	nan
+2	4	631	13	0.0	0.0940125	0.0	0.0
+3	8	614	30	0.0	0.29390625	0.0	nan
+4	5	626	18	0.0	0.136235	0.0	nan
+5	4	592	52	0.25	0.5418375	1.6666666666666667	0.5

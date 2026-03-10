@@ -1,0 +1,2 @@
+n_validation	n_hits_top15	hit_rate	hit_rate_pct	ci_lower	ci_upper	ci_lower_pct	ci_upper_pct	top_area_pct	target_year_from	target_year_to	holdout_temporal_mode	hit_rate_temporal_weighted	n_validation_temporal_weighted	binomial_p_one_sided_vs_csr	posterior_hit_rate_ci_lower	posterior_hit_rate_ci_upper	posterior_prob_hit_rate_gt_csr
+27	6	0.2222222222222222	22.22222222222222	0.10607095489408958	0.4075729546307081	10.607095489408957	40.75729546307081	15.0	750	954	overlap	0.23699054239633666	24.487976375501603	0.20965737342158997	0.10681677494196239	0.40964701484560595	0.88445

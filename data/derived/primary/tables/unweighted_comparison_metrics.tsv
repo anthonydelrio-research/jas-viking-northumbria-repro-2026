@@ -1,0 +1,2 @@
+hit_rate_unweighted	auc_unweighted	hit_rate_weighted	auc_weighted	delta_hit_rate_pct_points	delta_auc
+0.2	0.670282	0.24	0.617026	3.9999999999999982	-0.05325600000000008

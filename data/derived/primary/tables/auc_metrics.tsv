@@ -1,0 +1,2 @@
+auc_mean	auc_temporal_weighted	auc_sd	ci_lower	ci_upper	negative_samples
+0.617026	0.6336099220972443	0.18812252412739547	0.510100125	0.718503075	20000

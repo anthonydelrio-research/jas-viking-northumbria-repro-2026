@@ -1,0 +1,5 @@
+scenario	train_region	test_region	n_train_pas	n_test_holdouts	n_hits_top15	hit_rate	auc	gain_vs_csr	gain_vs_opportunity	status
+train_yorkshire_test_northwest	yorkshire	northwest	534	14	0	0.0	0.17489285714285716	0.0	0.0	ok
+train_northwest_test_yorkshire	northwest	yorkshire	92	13	0	0.0	0.39263461538461536	0.0	0.0	ok
+train_yorkshire_test_yorkshire	yorkshire	yorkshire	534	13	5	0.38461538461538464	0.6929903846153846	2.5641025641025643	2.5	ok
+train_northwest_test_northwest	northwest	northwest	92	14	10	0.7142857142857143	0.8863964285714285	4.761904761904762	10.0	ok

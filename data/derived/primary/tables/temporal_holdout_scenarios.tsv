@@ -1,0 +1,4 @@
+scenario	target_year_from	target_year_to	n_validation	n_hits_top15	hit_rate	hit_ci_lower	hit_ci_upper	auc	hit_rate_temporal_weighted	auc_temporal_weighted	n_validation_temporal_weighted	n_validation_effective_temporal	binomial_p_one_sided_vs_csr	posterior_hit_rate_ci_lower	posterior_hit_rate_ci_upper	posterior_prob_hit_rate_gt_csr	n_burial	n_settlement	n_hoard
+strict_inside_unweighted	750	954	21	5	0.23809523809523808	0.10627856389112261	0.45091581972345923	0.6392535714285714	nan	nan	nan	nan	0.19747140454813866	0.10716797616217001	0.4534065359888957	0.901075	20	1	0
+overlap_unweighted	750	954	25	6	0.24	0.11496157730326725	0.43430059955238565	0.617026	nan	nan	nan	nan	0.16151540319459778	0.11562788975582108	0.4364402197467512	0.916265	20	5	0
+overlap_temporal_weighted	750	954	25	6	0.24	0.11496157730326725	0.43430059955238565	0.617026	0.2521340402346775	0.6336099220972443	23.017196718131295	23.815793017085895	nan	nan	nan	nan	20	5	0

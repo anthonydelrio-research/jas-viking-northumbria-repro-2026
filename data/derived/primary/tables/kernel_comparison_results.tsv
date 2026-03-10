@@ -1,0 +1,4 @@
+kernel_function	surface_correlation_with_gaussian	regional_pattern_fidelity
+gaussian	1.0	PRESERVED
+epanechnikov	0.8327653654261808	PRESERVED
+uniform	0.8857569998488246	PRESERVED

@@ -1,0 +1,2 @@
+opportunity_threshold_top_area	opportunity_top_area_pct	opportunity_sampling_mode	opportunity_min	opportunity_max	opportunity_mean	arable_mean	slope_score_mean	road_score_mean	constraints_urban_pct	constraints_woodland_pct	constraints_national_park_pct	baseline_pas_points	pas_all_points
+0.2555519087697109	15.0	observed_detector_effort_pas_all_kde	1e-06	1.0	0.14242428605947616	nan	nan	nan	nan	nan	nan	nan	33361.0

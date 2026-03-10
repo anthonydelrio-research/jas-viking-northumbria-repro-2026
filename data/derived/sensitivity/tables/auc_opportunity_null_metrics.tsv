@@ -1,0 +1,2 @@
+auc_opportunity_null	auc_opportunity_null_temporal_weighted	ci_lower	ci_upper	negative_samples	sampling_mode
+0.5056453703703704	0.5264010766266958	0.3926115277777778	0.6171221990740741	20000	observed_detector_effort_pas_all_kde

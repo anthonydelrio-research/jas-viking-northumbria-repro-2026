@@ -1,0 +1,2 @@
+n_validation_primary	n_hits_top15_primary	hit_rate_primary	binomial_p_one_sided_vs_csr	posterior_hit_rate_ci_lower	posterior_hit_rate_ci_upper	posterior_prob_hit_rate_gt_csr	max_abs_delta_hit_rate_pct_points_loo	max_abs_delta_auc_loo	mean_abs_delta_hit_rate_pct_points_loo	mean_abs_delta_auc_loo
+25	6	0.24	0.16151540319459778	0.11570109802344627	0.43661353432916694	0.91586	3.1666666666666647	0.019881291666666745	1.52	0.00956378

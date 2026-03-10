@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "JAS Reproducibility Package: Viking-Age Northumbria Confidence-Weighted GIS Analysis"
+type: software
+version: "v1.0"
+date-released: "2026-03-10"
+url: "https://github.com/aeterna5326/jas-viking-northumbria-repro-2026"
+repository-code: "https://github.com/aeterna5326/jas-viking-northumbria-repro-2026"
+authors:
+  - family-names: "Del Rio"
+    given-names: "Anthony Brian"
+    orcid: "https://orcid.org/0009-0002-3799-8225"
+    affiliation: "Institute of Archaeology, University of Oxford"

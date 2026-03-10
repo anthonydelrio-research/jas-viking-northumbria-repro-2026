@@ -1,0 +1,7 @@
+dataset	n	notes
+PAS_full_northumbria_metalwork	644	Current analytical package; temporal_mode=overlap; target_window=750-954; pre_temporal_n=721; post_temporal_n=644
+KEPN_full_northumbria	3014	Full KEPN export
+CASSS_full_northumbria	1048	Full CASSS export
+Validation_holdouts	27	Validation holdouts loaded from vetted_gpkg; target_window=750-954; temporal_mode=overlap; pre_temporal_n=28; post_temporal_n=27; type_counts={'burial': 20, 'settlement': 7}; include_sensitivity=True; include_context=False
+Grid_mask_cells_1km	27436	Analysis mask raster cells
+High_confidence_zone_top15pct_cells	4116	Top 15% KDE area

@@ -4,8 +4,8 @@ title: "JAS Reproducibility Package: Viking-Age Northumbria Confidence-Weighted 
 type: software
 version: "v1.0"
 date-released: "2026-03-10"
-url: "https://github.com/aeterna5326/jas-viking-northumbria-repro-2026"
-repository-code: "https://github.com/aeterna5326/jas-viking-northumbria-repro-2026"
+url: "https://github.com/anthonydelrio-research/jas-viking-northumbria-repro-2026"
+repository-code: "https://github.com/anthonydelrio-research/jas-viking-northumbria-repro-2026"
 authors:
   - family-names: "Del Rio"
     given-names: "Anthony Brian"
